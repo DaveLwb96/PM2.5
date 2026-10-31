@@ -2,7 +2,7 @@
 
 - Dashboard that displays latest PM2.5 data.
 - URL: https://personal-zqhxbmd9.outsystemscloud.com/PM25/Admindashboard?_ts=639289567927532407
-<img width="2560" height="1250" alt="image" src="https://github.com/user-attachments/assets/65071e5a-6130-4252-b89f-404e39a3a435" />
+<img width="2560" height="1258" alt="image" src="https://github.com/user-attachments/assets/1844d7e6-30bb-4fa3-9f26-28a2db43a167" />
 
 ## Technology stack
 
