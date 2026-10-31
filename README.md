@@ -1,6 +1,6 @@
 # PM2.5 Dashboard
 
-- Dashboard that displays data pulled from PM2.5 API.
+- Dashboard that displays latest PM2.5 data.
 - URL: https://personal-zqhxbmd9.outsystemscloud.com/PM25/Admindashboard?_ts=639289567927532407
 <img width="2528" height="1244" alt="image" src="https://github.com/user-attachments/assets/3f75eb30-2295-4a46-9a10-42fc821f22d1" />
 
